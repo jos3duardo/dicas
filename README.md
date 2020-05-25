@@ -1,10 +1,16 @@
 # dicas
 
-## Reliese Laravel
+### Reliese Laravel
 Instalação
+```
+composer require reliese/laravel --dev  
+```
+### Utilização
 
-composer require reliese/laravel --dev
-Utilização
-
+```
 php artisan code:models
-php artisan vendor:publish --tag=reliese-models (se der o erro mkdir(): Invalid path)
+```
+(se der o erro mkdir(): Invalid path)
+```
+php artisan vendor:publish --tag=reliese-models 
+```
