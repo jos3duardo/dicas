@@ -1,6 +1,6 @@
 # dicas
 
-##Reliese Laravel
+## Reliese Laravel
 Instalação
 
 composer require reliese/laravel --dev
