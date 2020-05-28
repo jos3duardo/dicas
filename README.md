@@ -14,3 +14,4 @@ php artisan code:models
 ```
 php artisan vendor:publish --tag=reliese-models 
 ```
+
